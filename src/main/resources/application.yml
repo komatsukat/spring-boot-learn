@@ -1,0 +1,27 @@
+person:
+  boss: true
+  birth: 1998/08/20
+  age: 22
+  interests: [篮球,足球]
+  animal:
+    - 猫
+    - 狗
+#  score: {english: 22,math: 45}
+  score:
+    egnlish: 33
+    chiense: 34
+  salarys:
+    - 1000.98
+    - 999.99
+  pet:
+    name: 小黑猫
+    weight: 10.23
+  allPets:
+    dogs: [{name: yellowDog,weight: 22.22},{name: blackDog,weight: 33.33}]
+    cats:
+      - {name: whightCat,weight: 1.11}
+      - name: hotCat
+        weight: 23.22
+      - name: coolCat
+        weight: 34
+  user-name: 张三
